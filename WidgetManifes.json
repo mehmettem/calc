@@ -1,0 +1,7 @@
+{
+  "name": "CalculatorWidget",
+  "require": ["MyCompany/CalculatorWidget"],
+  "description": "A simple calculator widget built with UWA API.",
+  "icon": "",
+  "entry": "CalculatorWidget.js"
+}
